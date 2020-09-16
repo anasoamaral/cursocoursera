@@ -9,7 +9,7 @@
 <body>
 <div><h1> Our Menu </h1><div>
 
-<link href='css/style.css' rel='stylesheet' type='text/css'>
+<link href='css/style.css' rel='stylesheet'>
  
 <div  class="row">
 
